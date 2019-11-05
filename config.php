@@ -27,7 +27,11 @@ $data = array(
 					'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
 					'name'    => 'Operation Elementor Addons',
 				),
-			
+				array(
+					'slug'    => 'contact-form-7',
+					'init'    => 'contact-form-7/wp-contact-form-7.php',
+					'name'    => 'Contact Form 7',
+				),
 			),
 		),
 	),
